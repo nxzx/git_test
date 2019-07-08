@@ -1,3 +1,6 @@
+#developTool config files
+.project
+.idea
 # Compiled class file
 *.class
 
